@@ -30,10 +30,10 @@ The **FrozenLake-v1** environment is a grid-world problem in which an agent must
 Grid Used:
 
 ```text
-S F F F
+F F S F
 F H F H
 F F F H
-H F F G
+H G F F 
 ```
 
 Where:
